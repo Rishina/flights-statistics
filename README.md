@@ -67,7 +67,7 @@ Run the
 
 
 ### To Do
-1. From the outpout of Problem 3,  the ist has to be looped to find the greatest number of locations travelled without or before being in UK.
+1. From the output of Problem 3,  the list has to be looped to find the greatest number of locations travelled without or before being in UK.
 2. Add testcases for all the scenarios.
 
 ### Version
